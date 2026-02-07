@@ -173,4 +173,4 @@ It serves as a **foundation for more advanced work**, including:
 
 ## Author
 
-Built as a self-directed qf project to develop intuition around **returns, volatility, and risk**.
+Built as a self-directed qf project to develop intuition around **returns, volatility, and risk**. Courtesy of @mirkovicdev
